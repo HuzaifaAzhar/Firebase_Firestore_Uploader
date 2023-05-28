@@ -1,4 +1,4 @@
-# Firebase_Firestore_Uploader
+# Flutter_Firestore_Uploader
  Simple uploader which you can use to upload your data to firestore firebase in bulk.
  THIS UPLOADS THE DATA TO FIRESTORE DATABASE!
  How to run:
